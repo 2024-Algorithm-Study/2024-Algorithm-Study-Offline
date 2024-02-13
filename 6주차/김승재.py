@@ -1,3 +1,8 @@
+# 프로그래머스 - 게임 맵 최단거리
+
+# solution
+# 최단거리 문제이기 때문에 DFSx BFSo
+
 from collections import deque
 
 def bfs(maps, x, y, row, column):
